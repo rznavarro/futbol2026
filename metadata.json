@@ -1,0 +1,6 @@
+{
+  "name": "Fútbol 2026 - Videojuego de Fútbol para PC",
+  "description": "Videojuego de fútbol 3D profesional para PC con Real Madrid, FC Barcelona, Manchester City, Bayern Múnich y Liverpool. Gráficos 3D con Three.js, estadios nocturnos, IA táctica avanzada, física de balón, tiros, pases, saques de banda y esquinas, y marcador televisivo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
